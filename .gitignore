@@ -12,3 +12,6 @@ Thumbs.db
 # Virtual Environments (we'll add specifics later)
 venv/
 env/
+
+# Virtual Environments
+backend_venv/
