@@ -1,0 +1,14 @@
+# IDE and OS files
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Environment files (we'll add specifics later)
+.env
+
+# Virtual Environments (we'll add specifics later)
+venv/
+env/
